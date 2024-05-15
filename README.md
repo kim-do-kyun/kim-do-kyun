@@ -63,7 +63,7 @@
   </a>
   
 ### My Info
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zetgi7dk5359)](https://solved.ac/profile/zetgi7dk5359)
+<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zetgi7dk5359)](https://solved.ac/profile/zetgi7dk5359)-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-do-kyun&show_icons=true&theme=tokyonight)
 </div><<!--
 
